@@ -1,5 +1,2 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/VSCapture/obj/x86/Debug/VSCapture.csprojAssemblyReference.cache
+﻿*.cache
+.vs/
